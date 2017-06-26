@@ -4,7 +4,7 @@
   "description": "yelp bolt used to search food, etc.",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/app.js"
   },
   "author": "Hongliang Kong",
   "license": "ISC",
