@@ -1,0 +1,18 @@
+{
+  "name": "yelpbot",
+  "version": "1.0.0",
+  "description": "yelp bolt used to search food, etc.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hongliang Kong",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "botbuilder": "^3.8.4",
+    "querystring": "^0.2.0",
+    "restify": "^4.3.0",
+    "yelp-fusion": "^1.0.3"
+  }
+}
